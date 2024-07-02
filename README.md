@@ -7,11 +7,11 @@ Having trouble solving those big mathematical sums? Don't worry, we have got you
 <br>
 
 <img src="https://github.com/arora-kapil/Calculator-2.0/assets/78464909/1c7c2bad-15cf-4fec-8a82-215ab20008da" width="300" height="525" />
-<be>
+<br>
 <br>
 
 <img src="https://github.com/arora-kapil/Calculator-2.0/assets/78464909/fc17edee-1a0d-415e-b1ed-3509ddad1783" width="300" height="525" />
-<be>
+<br>
 <br>
 
 # Getting Started
