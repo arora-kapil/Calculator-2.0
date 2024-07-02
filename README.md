@@ -1,4 +1,18 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# What it does?
+
+Having trouble solving those big mathematical sums? Don't worry, we have got you covered. Using this app, you can perform all your mathematical operations from your phone. 
+
+<img src="https://github.com/arora-kapil/Calculator-2.0/assets/78464909/41ddcaa6-80f2-4b89-a349-f42fd1881971" width="300" height="525" />
+<br>
+<br>
+
+<img src="https://github.com/arora-kapil/Calculator-2.0/assets/78464909/1c7c2bad-15cf-4fec-8a82-215ab20008da" width="300" height="525" />
+<br>
+<br>
+
+<img src="https://github.com/arora-kapil/Calculator-2.0/assets/78464909/fc17edee-1a0d-415e-b1ed-3509ddad1783" width="300" height="525" />
+<br>
+<br>
 
 # Getting Started
 
