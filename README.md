@@ -2,7 +2,7 @@
 
 Having trouble solving those big mathematical sums? Don't worry, we have got you covered. Using this app, you can perform all your mathematical operations from your phone. 
 
-![Screenshot_1719915385](https://github.com/arora-kapil/Calculator-2.0/assets/78464909/41ddcaa6-80f2-4b89-a349-f42fd1881971)
+![Screenshot_1719915385](https://github.com/arora-kapil/Calculator-2.0/assets/78464909/41ddcaa6-80f2-4b89-a349-f42fd1881971 | width=10)
 
 ![Screenshot_1719915504](https://github.com/arora-kapil/Calculator-2.0/assets/78464909/1c7c2bad-15cf-4fec-8a82-215ab20008da)
 
